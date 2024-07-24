@@ -35,7 +35,7 @@ google_analytics: G-P35NBSP2S8
 + remote_theme: jekyll/minima
 
 plugins:
-+ - jekyll-remote-theme
+  - jekyll-remote-theme
   - jekyll-feed
 
 # Exclude from processing.
